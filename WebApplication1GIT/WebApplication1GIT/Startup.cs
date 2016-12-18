@@ -14,6 +14,7 @@ namespace WebApplication1GIT
         {
             ConfigureAuth(app);
             //COMENTARIO DE PRUEBAS
+            //DESDE GIT
         }
     }
 }
